@@ -16,7 +16,7 @@ homepage = "https://github.com/frenck/python-wled"
 keywords = ["wled", "api", "async", "client"]
 license = "MIT"
 maintainers = ["Franck Nijhof <opensource@frenck.dev>"]
-name = "wled"
+name = "py-wled"
 packages = [
   {include = "wled", from = "src"},
 ]
